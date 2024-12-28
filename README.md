@@ -3,7 +3,7 @@
 ## 📝 **Overview**  
 The **Classic Models Data Analysis Project** provides **insights into sales performance, customer behavior, and inventory trends** of Classic models vehicle company-using SQL databases and Python.  
 It processes data from the **Classic Models database** to generate **visualizations and reports** that aid in **decision-making**.  
-Data source: [https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/](url)
+Data source: https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/
 ---
 
 ## 🚀 **Key Features**  
