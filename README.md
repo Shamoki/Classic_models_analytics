@@ -32,8 +32,4 @@ It uses **SQL databases** and **Python** for data processing, enabling businesse
 
 ---
 
-## 🖥 Setup Instructions  
-1. **Clone the Repository**:  
-   ```bash
-   git clone <repository-url>
-   cd classicmodels-project
+
