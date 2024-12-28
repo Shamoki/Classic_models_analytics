@@ -31,5 +31,9 @@ It uses **SQL databases** and **Python** for data processing, enabling businesse
 - **📊 Tools**: Pandas and NumPy for **data analysis** and **processing**.  
 
 ---
+🧑‍🤝‍🧑 Usage
+Sales Teams: Forecast revenue and identify growth opportunities.
+Inventory Managers: Optimize stock levels based on sales patterns.
+Marketing Teams: Target promotions based on customer segments.
 
 
